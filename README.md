@@ -57,7 +57,7 @@ I am a University Technician in Programming, graduated from UTN, Buenos Aires. I
 
 
 
-## Check out my Social Media
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture>  Check out my Social Media
 <a href= "https://www.linkedin.com/in/garciafeli/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -67,9 +67,10 @@ I am a University Technician in Programming, graduated from UTN, Buenos Aires. I
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width ="3%"> Github Stats 
 
 [![](https://github-readme-stats.vercel.app/api?username=garciafelipe1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garciafelipe1)
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=garciafelipe1&theme=material-palenight)](https://github.com/garciafelipe1)
 
 
