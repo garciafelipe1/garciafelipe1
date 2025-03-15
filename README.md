@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-I am a University Technician in Programming, graduated from UTN, Buenos Aires. I'm expanding my knowledge in both front-end and back-end development, I love to learn and build something new, productive, innovative and creative. 
+I am a University Technician in Programming, graduated from UTN, Buenos Aires. I'm expanding my knowledge in both Backend and Frontend development, I love to learn and build something new, productive, innovative and creative. 
 - 🌱 I am currently learning ....
 - 👯 I am looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I'm happy to help.
