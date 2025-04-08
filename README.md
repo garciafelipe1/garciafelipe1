@@ -71,6 +71,5 @@ I am a University Technician in Programming, graduated from UTN, Buenos Aires, A
 
 [![](https://github-readme-stats.vercel.app/api?username=garciafelipe1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garciafelipe1)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=garciafelipe1&theme=material-palenight)](https://github.com/garciafelipe1)
 
 
