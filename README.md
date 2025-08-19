@@ -61,9 +61,8 @@ I am a University Technician in Programming, graduated from UTN, Buenos Aires, A
 <a href= "https://www.linkedin.com/in/garciafeli/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href= "https://www.instagram.com/garciaafelipe_/">
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-</a>
+
+
 
 
 
