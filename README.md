@@ -66,9 +66,5 @@ I am a University Technician in Programming, graduated from UTN, Buenos Aires, A
 
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width ="3%"> Github Stats 
-
-[![](https://github-readme-stats.vercel.app/api?username=garciafelipe1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garciafelipe1)
-
 
 
